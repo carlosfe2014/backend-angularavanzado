@@ -1,0 +1,1 @@
+module.exports.SEED = '@E#s.-@Mil-token';
